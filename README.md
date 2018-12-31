@@ -1,1 +1,1 @@
-# sequence_regions
+# sequence_regionsThis repository contains code for parsing region boundaries pertaining to importantconstructs of biological sequences (for example, domains). These boundaries can bethose output by a program such as Pfam or CDD, or be user-supplied (for example,based on manual assessment or other information).The top-level program sequence\_regions.py
